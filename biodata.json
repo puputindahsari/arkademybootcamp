@@ -1,0 +1,22 @@
+[{
+        "name": "Puput indah sari",
+        "age": 19,
+        "address": "JL. Seroja rt/rw 02/01 kel.Waninggap Miraf Kecamatan.Tanah Miring",
+        "hobbies": ["membaca", "menulis", "mendengarkan music", "menonton flm", "game"],
+        "is_married": false,
+},
+{ 
+        "shool_name": "SMK NEGERI 3 MERAUKE",
+        "Year_in": 2015,
+        "Year_out": 2018,
+                },
+                 {
+                    "Major":[
+                            "html=expert",
+                            "css=advanced",
+                            "javascript=beginner",
+                            "PHP=beginner"],
+        
+        "interest_in_coding": true,
+                        }
+ ]
